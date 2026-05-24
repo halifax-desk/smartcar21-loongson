@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+env/
+Env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Collected images (output)
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.tiff
+
+# Logs
+*.log
+
+# Trae / Cursor / AI editor
+.trae/
+
+# Environment
+.env
+.env.local
